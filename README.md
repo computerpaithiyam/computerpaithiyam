@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @computerpaithiyam
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning Web Devalopment
-- 📫 How to reach me girinathindia2002@outlook.com
+- 📫 How to reach me girinathindia2002@outlook.com , https://twitter.com/girinath22
 
 <!---
 computerpaithiyam/computerpaithiyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
